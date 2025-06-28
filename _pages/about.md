@@ -19,7 +19,9 @@ redirect_from:
 
 Hang QI is currently a PhD student at the Department of Statistics, Beijing Normal-Hong Kong Baptist University(BNBU), under the supervision of Dr. Jingjin Wu. She received her Master’s degree in Health Data Science from the University College London (UCL) in 2022. From 2017 to 2021, he studied at the Beijing Normal-Hong Kong Baptist University(BNBU) to achieve a Bachelor of Science degree in Statistics.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Federated Learning, Machine Learning, Computational Efficiency, Communication, and Supply Chain. 
+
+% I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
