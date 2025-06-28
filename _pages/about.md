@@ -28,9 +28,8 @@ My research interest includes Federated Learning, Machine Learning, Computationa
 - *2025.05*: &nbsp;🎉🎉 Our paper "Energy Efficient Power Control for Over-the-air Federated Learning in Satellite Communications" is accepted by **IEEE Communications Letters**.
 
 
-# 📝 Publications 
-
 <!--
+# 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -47,8 +46,8 @@ My research interest includes Federated Learning, Machine Learning, Computationa
 
 -->
 
-# 🎖 Honors and Awards
 <!--
+# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
