@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hang QI is currently a PhD student at the Department of Statistics, Beijing Normal-Hong Kong Baptist University(BNBU), under the supervision of Dr. Jingjin Wu. She received her Master’s degree in Health Data Science from the University College London (UCL) in 2022. From 2017 to 2021, he studied at the Beijing Normal-Hong Kong Baptist University(BNBU) to achieve a Bachelor of Science degree in Statistics.
+Hang QI is currently a PhD student at the Department of Statistics, Beijing Normal-Hong Kong Baptist University(BNBU), under the supervision of Dr. Jingjin Wu. She received her Master’s degree in Health Data Science from the University College London (UCL) in 2022. From 2017 to 2021, She studied at the Beijing Normal-Hong Kong Baptist University(BNBU) to achieve a Bachelor of Science degree in Statistics.
 
 My research interest includes Federated Learning, Machine Learning, Computational Efficiency, Communication, and Supply Chain. 
 
@@ -59,6 +59,7 @@ My research interest includes Federated Learning, Machine Learning, Computationa
 
 - *2021.09 - 2022.12*, Master in Health Data Science, University College London (UCL)
 
+- *2017.09 - 2021.07*, Bachelor of Science degree in Statistics, Beijing Normal-Hong Kong Baptist University(BNBU)
 
 <!--
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
