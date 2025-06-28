@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hang QI"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/WechatIMG530.jpg"
   bio              : "Beijing Normal-Hong Kong Baptist University(BNBU)"
   location         : "Zhuhai, Guangdong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=en&user=t0sI5wsAAAAJ"
+  email            : "qh1181989474@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
