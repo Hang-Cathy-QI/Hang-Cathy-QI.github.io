@@ -25,8 +25,7 @@ My research interest includes Federated Learning, Machine Learning, Computationa
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2025.05*: &nbsp;🎉🎉 Our paper "Energy Efficient Power Control for Over-the-air Federated Learning in Satellite Communications" is accepted by **IEEE Communications Letters**.
 
 
 # 📝 Publications 
