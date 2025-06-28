@@ -58,7 +58,7 @@ My research interest includes Federated Learning, Machine Learning, Computationa
 
 - *2023.09 - now*, PhD in Probability and Mathematical Statistics, Beijing Normal-Hong Kong Baptist University(BNBU)
 
-- *2021.09 - 20233.12*, Master in Health Data Science, University College London (UCL)
+- *2021.09 - 2022.12*, Master in Health Data Science, University College London (UCL)
 
 
 <!--
@@ -71,6 +71,9 @@ My research interest includes Federated Learning, Machine Learning, Computationa
 -->
 
 # 💻 Internships
+
+- *2022.10 - 2023.09*, Research Assistant at Hong Kong University, Hong Kong SAR, China.
+
 
 <!--
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
