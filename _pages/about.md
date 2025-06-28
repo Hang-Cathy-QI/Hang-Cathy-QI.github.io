@@ -56,6 +56,11 @@ My research interest includes Federated Learning, Machine Learning, Computationa
 
 # 📖 Educations
 
+- *2023.09 - now*, PhD in Probability and Mathematical Statistics, Beijing Normal-Hong Kong Baptist University(BNBU)
+
+- *2021.09 - 20233.12*, Master in Health Data Science, University College London (UCL)
+
+
 <!--
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
